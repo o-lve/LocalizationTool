@@ -1,1 +1,4 @@
 # LocalizationTool
+本地化工具
+用于遍历项目所有预制件下的Text并且添加本地化脚本，
+把获得的所有文字导出成excel
